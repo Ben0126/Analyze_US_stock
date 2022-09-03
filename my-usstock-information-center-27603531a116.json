@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "my-usstock-information-center",
+  "private_key_id": "27603531a11605c894da7ee17dd13a934f8f5f6a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDPFclr325LynOk\n0S74fymjsvGE3XJIAteSBUd9I4kDLgFPfuQYKn/aZp6Ql6BplkB2YlcfoNgrZTic\n+91rO8WwBxYPAAI1JrbcFc7Qax3nNDvrK9LTmit9DBqkHQi02EAnEfKU57r/Utvo\nXoot6qckoluGBH8JCDSuvSfxRFqVxFk65jrEY3YRo9t34P8XeFHL40OxmkTxfTNW\nS29gWlr+2JAKDRGPbVyUdhLsPYlj95dWn1NLa8HPiUNii6lYUvDn1anEb4yjxanf\nk9h3er+7HEmrnYb3JxhISUdbdXyx39AmTHWINl5otECIOcsCg1qKvIlOicM3iX2L\nZZAGjhX1AgMBAAECggEAVhtOifK5J32ScWVjnQMvGri00VTNCKFZ5ocYbzG/7lkK\nRXZTPLMrP3JtG11Y356Qxkjkxit4xy6LCEd4DXcon6WKqAkOYfBrl37f5Gyt3e2r\nvoEV5FOWIqROTZAfBydmIXjGf+ENMc5Pz0LEPQx1nHeAC+1Br01ArqnLeng8HEpt\nfQttsW2BpUSeFfrgu6KcK74OenqW+QmEFwVlspbppLPTeV3V2GEBxRezURQeFpCX\nb0ZzoFDfcYILTfWTVs3cO+WUZzJgseVHKSOfkyRx1uj9DcubQHMqAJIbcZm5V8XC\nhvQ90LJ149CPUKepucB1WTpxcAu5MUzqI7DmJvBHPwKBgQDoj3dTZRUd9VfzT1WR\nVNdRENharEk/vsVzTAc//3mw7jasxeNCsh1oAAdJwD9q7lAceEaYAR4kyJ4OQFSj\nxTHZ1jpqhrddymXAhR3jj+mvp986lE0hSbxSYhnj7+LQAi/nsxEeiHVzLy9EYxL/\n841MIcSruVskgKO89AecA4B9hwKBgQDj9QFxkGrs/Ad8FJnQbIzalhyEj+8MIA+N\nkZngxrhtHkOJ9kbac0x8y+uswFuZrubLAhCcwGFkBMlQiW+pe7njb2au19JA1jCz\nKIXHhdUnLCYwVbzh43ylbOwSvWQnhsdSDyDIxQIfwB36y4ZztyyW4mHl0SUB4XUb\nBSFCB1LPowKBgQCW84CFnggN8RFMegNVmRdFpER63neRK9foFcJi9QXdJVJR5QS1\nZv2VYudYJLRFSTiwshVIVvlk8N8+6tzFjJrmBZrXSGg/Nb/ELeOPsPsDLFjGIjrK\nT50wcELT5AJ59+F2aJHFGtf5kvgAULqlbkYZ05VfzaluUR126YMC7nb5gwKBgQCI\nJqLJGG+0wccaphdEdEEgoT3BM1KclF2VuZwFs8sdaVD/irfA69KISyelE3LidKNm\nJwKTDRheK7mtv5iQytQ48iWLUl5C2WtW5mIYzGeGMQlSHzNkW4HsMAVEIBg8v3Q3\nH8/9+iUNn6qIS50vaf1Y1TeRkvwehnFyRPsbO9KLLwKBgE+MacGe9BiuCXm43gHE\n/4oBTyd49M62AEDzKM3+5h0AJQEQNx3HkcR5KvZAODHa+CcIEp40QSuX06RtLJAl\n+l11VMG1xQpCiQ89HoCwJabJ9uGmmBF/IlhoVm0fCjy9R8/NcY6ZHpaB0htd2l+Z\nuwyFwBBK1u0pFJa3jD8xbTDk\n-----END PRIVATE KEY-----\n",
+  "client_email": "center-admin@my-usstock-information-center.iam.gserviceaccount.com",
+  "client_id": "118371204724343375506",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/center-admin%40my-usstock-information-center.iam.gserviceaccount.com"
+}
