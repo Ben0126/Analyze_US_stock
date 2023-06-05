@@ -24,7 +24,6 @@
 - `supertrend-2.ipynb`: Supertrend指標的介紹和使用方法2。
 - `supertrend.ipynb`: Supertrend指標的介紹和使用方法。
 
-===============================================================================
 ## 資料檔案
 
 - `Company Information.csv`: 公司資訊的CSV檔案。
@@ -35,6 +34,7 @@
 - `stock_auto_update.py`: 自動更新股票資料的Python腳本。
 - `PY_Env.yaml`: Python環境配置
 
+===========================================================================
 
 # File Description
 
